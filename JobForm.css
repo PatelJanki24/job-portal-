@@ -1,0 +1,110 @@
+/* JobForm.css */
+.App {
+  text-align: center; /* Corrected typo: "middle" to "center" */
+  background-color: #f5f5f5;
+  padding: 20px; /* Adjusted padding to 20px */
+}
+
+h1 {
+  color: #333;
+}
+
+/* JobForm.css */
+.App {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.job-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #b9a69b;
+  background-color: #e8e2dc;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid .contact-form {
+    max-width: 500px; /* Adjust the max-width to your preference */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+
+.contact-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 5px;
+    box-sizing: border-box; /* Ensure padding and border are included in width */
+  }
+  
+.contact-form button {
+  width: 100%;
+  padding: 10px;
+  background-color:#E8E2DC;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #E8E2DC;
+}
+;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+select[multiple] {
+  height: 100px; /* Set the height according to your preference */
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #b9a69b;
+  color: #e8e2dc;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #e8e2dc;
+  color: #b9a69b;
+}
